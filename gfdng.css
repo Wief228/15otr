@@ -1,0 +1,28 @@
+body{
+    font-family: 'Noto Sans Limbu', sans-serif;
+}
+h2{
+text-align: center;
+font-size: larger;
+}
+h1{
+text-align: center;
+}
+.men{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+}
+.man{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 400px;
+}    
+.mon{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 400px;
+}
