@@ -1,5 +1,10 @@
 body{
     font-family: 'Noto Sans Limbu', sans-serif;
+    background: #c7b39b url(img/22-kosmos-oboi-kartinki-foto-1920x1080.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff; 
+    margin: 0;
 }
 h2{
 text-align: center;
@@ -20,9 +25,17 @@ text-align: center;
     left: 40%;
     width: 400px;
 }    
-.mon{
-    display: block;
-    margin: 0 auto;
-    left: 40%;
-    width: 400px;
+.btn{
+    width:100px;
+    height: 100px;
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    margin-left: 850px;
+
+    
+}
+.the{
+    color: blue;
+    text-decoration: dotted;
 }
